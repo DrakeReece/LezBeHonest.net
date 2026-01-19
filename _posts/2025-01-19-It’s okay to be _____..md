@@ -3,7 +3,7 @@ layout: post
 title:  It’s okay to be _____.
 description: 
 date:   2025-01-22 19:43:35 +0300
-image:  '/images/Drake-n-Tyler-SewardAK.jpg'
+image:  '/images/Drake-sitting.jpg'
 tags:   [Emotional intelligence, Mental Health, Emotional Honesty]
 ---
 

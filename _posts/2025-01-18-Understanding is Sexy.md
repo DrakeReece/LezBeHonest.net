@@ -3,7 +3,7 @@ layout: post
 title:  Understanding is Sexy
 description: 
 date:   2025-01-22 15:01:35 +0300
-image:  '/images/110.jpg'
+image:  '/images/Drake-Cliff-CL-NP.jpg'
 tags:   [Emotional intelligence, Self-acceptance]
 ---
 
