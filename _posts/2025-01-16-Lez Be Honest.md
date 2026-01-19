@@ -3,7 +3,7 @@ layout: post
 title:  Lez Be Honest
 description: 
 date:   2025-01-16 15:01:35 +0300
-image:  '/images/110.jpg'
+image:  '/images/Drake-n-Tyler-SewardAK.jpg'
 tags:   [Authenticity, Self-acceptance]
 ---
 
