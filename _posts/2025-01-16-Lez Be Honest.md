@@ -20,7 +20,9 @@ The honest people of the internet need to feel validated for the times we though
 
 If Instagram Influencers are allowed to become popular by clicking their nails on things and taking their fifteenth vacation of the year there should be a space made for the normal people of the world. The people who were three minutes late to work this morning because they got the coffee they knew they didn’t have time to get. The people who love their spouse but also understand how someone ends up on Dateline. Real people with real thoughts and maybe a little bit of judgement.
 
-You can be kind and genuine. You can love people but also want to hurt them (but don’t). There’s so much pressure in life to be the perfect person, to be kind, to be encouraging, to be a good friend, to be a good spouse, to be productive, to be this, to be that, that we lose ourselves in what we should become and forget who we are.
+You can be kind and genuine. You can love people but also want to hurt them (but don’t). 
+
+> There’s so much pressure in life to be the perfect person, to be kind, to be encouraging, to be a good friend, to be a good spouse, to be productive, to be this, to be that, that we lose ourselves in what we should become and forget who we are.
 
 Contrary to what we tell ourselves, there’s not a perfect person out there. You can be nice and be occasionally sarcastic. You can be a good friend most of the time but pull back a little when you’re struggling. It’s possible to not answer phone calls when you’ve had a long day and still be supportive to those closest to you.
 
@@ -28,4 +30,4 @@ We get lost in absolutes. You have to be 100% available 100% of the time. Otherw
 
 I digress.
 
-If you like what you’ve heard so far there’s definitely more to say but for now I will start by welcoming you to Lez Be Honest, a place where people are people and we do judge
+If you like what you’ve heard so far there’s definitely more to say but for now I will start by welcoming you to Lez Be Honest, a place where people are people and we do judge.
