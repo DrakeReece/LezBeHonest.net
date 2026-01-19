@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: Lez Be Honest
+title: LezBeHonest
 logo: # You can add own logo. For example '/images/logo.png'.
 description: A place where people are people and we do judge.
 
@@ -17,13 +17,13 @@ menu-settings:
 # Author Settings
 author:
   name: Drake Reece
-  avatar: '/images/15.jpg'
+  avatar: '/images/Drake-Face.jpg'
 
 #-------------------------------
 # Hero Settings
 hero:
-  title: Drake Reece
-  description: Thoughts, stories and ideas.
+  title: LezBeHonest
+  description: A place where people are people and we do judge.
   image: '/images/index_bg.jpg'
 
 #-------------------------------

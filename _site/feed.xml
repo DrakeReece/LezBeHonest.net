@@ -1,30 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lez Be Honest</title>
+    <title>LezBeHonest</title>
     <description>A place where people are people and we do judge.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 18 Jan 2026 20:56:51 -0900</pubDate>
-    <lastBuildDate>Sun, 18 Jan 2026 20:56:51 -0900</lastBuildDate>
+    <pubDate>Sun, 18 Jan 2026 21:51:11 -0900</pubDate>
+    <lastBuildDate>Sun, 18 Jan 2026 21:51:11 -0900</lastBuildDate>
     <generator>Jekyll v4.4.1</generator>
     
       <item>
         <title>It’s okay to be _____.</title>
-        <description>&lt;p&gt;People are under the delusion that we have to be happy all the time. We cannot get angry, we can’t be upset, and we can definitely never be jealous. For starters, unless you’re sentient and reading this article you’re human. You can’t decide how something makes you feel. Denying how something makes you feel is gas lighting yourself into a reality that’s not real and we’re not about that here.&lt;/p&gt;
+        <description>&lt;p&gt;People are under the delusion that we have to be happy all the time. We cannot get angry, we can’t be upset, and we can definitely never be jealous. For starters, unless you’re sentient and reading this article you’re human. You can’t decide how something makes you feel.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Denying how something makes you feel is gas lighting yourself into a reality that’s not real and we’re not about that here.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;If you’re mad, get mad! That means you care about whatever is bothering you. Getting mad is a natural reaction and there’s nothing wrong with that. Choosing how you show that anger however is how you handle it responsibly. Flipping someone off or punching someone in the face is typically not the avenue I would recommend for you to express yourself. Turn that anger into passion. Passion is not explosive, it’s controlled. Passion shows interest without tearing down others. Passion is what fosters change and bridges gaps between people.&lt;/p&gt;
 
 &lt;p&gt;If you’re sad, be sad. I’m not a fitness expert but I can tell you ONE pint of ice cream won’t make you fat. Now is that a healthy option to deal with your emotions? Unfortunately, no. Is trading your sadness for $5 and a gallon of your favorite ice cream extremely habit forming? Absolutely! So I guess I should say there are much better ways to deal with sadness. After all, we’re all on a journey. Point being, if you’re upset, be upset. You’ve lost something. Maybe you’re upset about someone dying, maybe you miss someone, maybe you’re hormonal, or maybe you just woke up sad. At the end of the day, does it really matter? Unless you’re making it up for attention (ew, gross) feeling sad is part of life. Telling yourself to be happy when you’re not is a lie. Don’t do that.&lt;/p&gt;
 
-&lt;p&gt;People talk crap about jealousy but if I’m being honest, I’m here for it! If you tell me you’re jealous, my first question to you is why? Jealousy is a cue to a whole set of other emotions that follow. Ignoring jealousy is telling yourself that everything is okay and that you’re the problem. If you think your man’s being a hoe, there might be a reason for that. If you think he’s cheating on you and he’s clearly not, that’s probably a you problem. You have to be ready for that too. Either way, ignoring your initial reaction is dismissing how you feel and you’re better than that. You deserve to love yourself enough to acknowledge your emotions and to process them in a healthy, secure way.&lt;/p&gt;
+&lt;p&gt;People talk crap about jealousy but if I’m being honest, I’m here for it! If you tell me you’re jealous, my first question to you is why? Jealousy is a cue to a whole set of other emotions that follow. Ignoring jealousy is telling yourself that everything is okay and that you’re the problem. If you think your man’s being a hoe, there might be a reason for that. If you think he’s cheating on you and he’s clearly not, that’s probably a you problem. You have to be ready for that too. Either way, ignoring your initial reaction is dismissing how you feel and you’re better than that.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;You deserve to love yourself enough to acknowledge your emotions and to process them in a healthy, secure way.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;Social media has done a wonderful job at connecting people that would otherwise not interact with each other. People that meet on a flight can now Facebook stalk each other to see if the other person is married, where they live, and even see where they went to high school. It’s normal to post about every degree you earn, your kid’s birthday, a promotion, the last meal you ate, your dog, your new years resolution, the list goes on and on.&lt;/p&gt;
 
 &lt;p&gt;You know what people normally don’t post about? Sorrow. No one takes a video of themselves ugly crying because of a thought that popped in their head. People don’t brag about the times they mess something up at work or yell at their kid unnecessarily because they got on their nerves.
 We are conditioned to believe only reasonable and positive emotions are allowed. Lez be honest, sometimes I get sad for no reason. Does that make me an alien? No. It means I’m a human who is capable of expressing themselves. I don’t dwell on sadness, especially if it’s not a warranted emotion for the day I’m having but I deal with it. I feel emotions as they happen, when appropriate so they don’t bottle up or manifest in other ways. That’s healthy. I used sadness as an example but that can be said for any emotion.&lt;/p&gt;
 
-&lt;p&gt;Lying to yourself is old, outdated, ugly, and we ain’t doing it anymore! It’s 2026 and we’re gonna act like it. Go to therapy. Learn how to healthily handle and express your emotions. Honor yourself and be an adult. Period or whatever the kids are saying these days.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Lying to yourself is old, outdated, ugly, and we ain’t doing it anymore!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It’s 2026 and we’re gonna act like it. Go to therapy. Learn how to healthily handle and express your emotions. Honor yourself and be an adult. Period or whatever the kids are saying these days.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;mic drop&lt;/em&gt;&lt;/p&gt;
 </description>
@@ -43,41 +55,30 @@ We are conditioned to believe only reasonable and positive emotions are allowed.
     
       <item>
         <title>Understanding is Sexy</title>
-        <description>&lt;p&gt;The easy thing to do when you’re upset at someone is to immediately react. Giving someone
-the benefit of the doubt is truly a lost art. When a friend or a significant other offends you it’s super easy to automatically assume the worst. Why? I think it’s because we all secretly hate
-ourselves. What sense would it make for the person who loves you most to say something rude
-to you to intentionally hurt your feelings?&lt;/p&gt;
+        <description>&lt;p&gt;The easy thing to do when you’re upset at someone is to immediately react. Giving someone the benefit of the doubt is truly a lost art. When a friend or a significant other offends you it’s super easy to automatically assume the worst. Why? I think it’s because we all secretly hate ourselves. What sense would it make for the person who loves you most to say something rude to you to intentionally hurt your feelings?&lt;/p&gt;
 
 &lt;p&gt;If your answer is yeah, that checks out you should probably work on things with them.
-Otherwise, what else might be going on? Is it possible you misunderstood them? Is it possible
-they didn’t mean to make you feel the way you feel? Lez be honest (Shameless plug I know), it’s
-easy to assume the worst in people’s intentions when we are already feeling that way about
-ourselves in the first place. Our hurt isn’t always about what the other person said, it’s truly
-about how we already feel about our biggest insecurities because we don’t want to be
-responsible for them. They have to come from someone else.&lt;/p&gt;
+Otherwise, what else might be going on? Is it possible you misunderstood them? Is it possible they didn’t mean to make you feel the way you feel? Lez be honest (Shameless plug I know), it’s easy to assume the worst in people’s intentions when we are already feeling that way about ourselves in the first place. Our hurt isn’t always about what the other person said, it’s truly about how we already feel about our biggest insecurities because we don’t want to be responsible for them. They have to come from someone else.&lt;/p&gt;
 
-&lt;p&gt;Understanding what someone might be trying to say or how they might be trying to come across
-is the first step in emotional maturity. Choosing to understand preserves friendships, marriages,
-and makes the world a better place. However, the most valuable thing it preserves is you. The
-world is filled with many things, people, and words. Not all of them are kind and we owe it to
-ourselves to understand what kind of words are being spoken to us.&lt;/p&gt;
+&lt;p&gt;Understanding what someone might be trying to say or how they might be trying to come across is the first step in emotional maturity.&lt;/p&gt;
 
-&lt;p&gt;It’s possible the people who say they love us, actually do. Maybe when they said they didn’t
-want to start a fight, they didn’t. We are responsible for the words we say and taking ownership
-of how something might have come across is on the person saying them. However, the first step
-of preserving yourself and your emotions is realizing their intentions are arguably just as
-important. The people you care about are probably not the ones with bows and arrows trying to
-get you.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Choosing to understand preserves friendships, marriages, and makes the world a better place. However, the most valuable thing it preserves is you.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;The other thing understanding someone’s intentions does is it allows the other person to see
-how you see. If you pause, understand where the person might be coming from, and explain to
-them how their words made you feel. They can understand. They can see how you see yourself.
-In the moment we forget the people we love aren’t mind readers. It’s impossible for our loved
-ones to know the things we’re insecure about until we tell them.&lt;/p&gt;
+&lt;p&gt;The world is filled with many things, people, and words. Not all of them are kind and we owe it to ourselves to understand what kind of words are being spoken to us.&lt;/p&gt;
 
-&lt;p&gt;Mutual understanding is where healing takes place. It isn’t complicated but it does require effort. Easier said than done, I know but what if we all did that? Instead of jumping to conclusions we realize everyone probably isn’t a jerk and out to get us. Maybe, we simmer before we respond. You deserve that, I deserve that. We could make the world a little bit better place or some crap like that.&lt;/p&gt;
+&lt;p&gt;It’s possible the people who say they love us, actually do. Maybe when they said they didn’t want to start a fight, they didn’t. We are responsible for the words we say and taking ownership of how something might have come across is on the person saying them. However, the first step of preserving yourself and your emotions is realizing their intentions are arguably just as important. The people you care about are probably not the ones with bows and arrows trying to get you.&lt;/p&gt;
 
-&lt;p&gt;What do I know tho, I’m just a guy with a keyboard and a whole lot to say.&lt;/p&gt;
+&lt;p&gt;The other thing understanding someone’s intentions does is it allows the other person to see how you see. If you pause, understand where the person might be coming from, and explain to them how their words made you feel. They can understand. They can see how you see yourself. In the moment we forget the people we love aren’t mind readers. It’s impossible for our loved ones to know the things we’re insecure about until we tell them.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Mutual understanding is where healing takes place.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It isn’t complicated but it does require effort. Easier said than done, I know but what if we all did that? Instead of jumping to conclusions we realize everyone probably isn’t a jerk and out to get us. Maybe, we simmer before we respond. You deserve that, I deserve that. We could make the world a little bit better place or some crap like that.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;What do I know tho, I’m just a guy with a keyboard and a whole lot to say.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 22 Jan 2025 03:01:35 -0900</pubDate>
         <link>http://localhost:4000/Understanding-is-Sexy</link>
@@ -92,52 +93,29 @@ ones to know the things we’re insecure about until we tell them.&lt;/p&gt;
     
       <item>
         <title>Lez Be Honest</title>
-        <description>&lt;p&gt;I’ve been wanting to start a blog again for a few months but I wasn’t inspired on what I should
-write about, the holidays are a busy time, and well every other excuse there is to make up
-honestly. Until one day I was looking at people’s stories on Instagram. Unfortunately, I have
-succumbed to following several people from reality TV in the last year. It’s not necessary to
-name names but they all have one thing in common. There’s always a link to the outfit they’re
-wearing and their favorite product from Amazon is currently 23.4% off.&lt;/p&gt;
+        <description>&lt;p&gt;I’ve been wanting to start a blog again for a few months but I wasn’t inspired on what I should write about, the holidays are a busy time, and well every other excuse there is to make up honestly. Until one day I was looking at people’s stories on Instagram. Unfortunately, I have succumbed to following several people from reality TV in the last year. It’s not necessary to name names but they all have one thing in common. There’s always a link to the outfit they’re wearing and their favorite product from Amazon is currently 23.4% off.&lt;/p&gt;
 
-&lt;p&gt;Gag.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Gag.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Arguably, I should just unfollow them but I don’t. Why? Probably, because I need an outlet for
-my judgement every once and a while. It’s healthier to judge people you don’t know than the
-ones you do, right? Right. Anywho, those accounts with endless Amazon sales and a reality that
-normal people are simply not living inspired me. In a world full of bogus people, false realities on the internet, and the stressors of life, the people of the internet need real.&lt;/p&gt;
+&lt;p&gt;Arguably, I should just unfollow them but I don’t. Why? Probably, because I need an outlet for my judgement every once and a while. It’s healthier to judge people you don’t know than the ones you do, right? Right. Anywho, those accounts with endless Amazon sales and a reality that normal people are simply not living inspired me.&lt;/p&gt;
 
-&lt;p&gt;The honest people of the internet need to feel validated for the times we thought you your
-favorite razors are probably not the ones that are currently on sale for $14.99. We don’t want the
-links to your outfit. We want to hear about the times you slept through your alarm clock or had a
-genuine mom fail. We don’t care about what’s currently trending on Tiktok or gets you more
-views.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;In a world full of bogus people, false realities on the internet, and the stressors of life, the people of the internet need real.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;If Instagram Influencers are allowed to become popular by clicking their nails on things and
-taking their fifteenth vacation of the year there should be a space made for the normal people of
-the world. The people who were three minutes late to work this morning because they got the
-coffee they knew they didn’t have time to get. The people who love their spouse but also
-understand how someone ends up on Dateline. Real people with real thoughts and maybe a
-little bit of judgement.&lt;/p&gt;
+&lt;p&gt;The honest people of the internet need to feel validated for the times we thought you your favorite razors are probably not the ones that are currently on sale for $14.99. We don’t want the links to your outfit. We want to hear about the times you slept through your alarm clock or had a genuine mom fail. We don’t care about what’s currently trending on Tiktok or gets you more views.&lt;/p&gt;
 
-&lt;p&gt;You can be kind and genuine. You can love people but also want to hurt them (but don’t).
-There’s so much pressure in life to be the perfect person, to be kind, to be encouraging, to be a
-good friend, to be a good spouse, to be productive, to be this, to be that, that we lose ourselves
-in what we should become and forget who we are. Contrary to what we tell ourselves, there’s
-not a perfect person out there. You can be nice and be occasionally sarcastic. You can be a
-good friend most of the time but pull back a little when you’re struggling. It’s possible to not
-answer phone calls when you’ve had a long day and still be supportive to those closest to you.&lt;/p&gt;
+&lt;p&gt;If Instagram Influencers are allowed to become popular by clicking their nails on things and taking their fifteenth vacation of the year there should be a space made for the normal people of the world. The people who were three minutes late to work this morning because they got the coffee they knew they didn’t have time to get. The people who love their spouse but also understand how someone ends up on Dateline. Real people with real thoughts and maybe a little bit of judgement.&lt;/p&gt;
 
-&lt;p&gt;We get lost in absolutes. You have to be 100% available 100% of the time. Otherwise, you’re a
-terrible person who hates their family. You can’t judge people because you don’t know what
-they’ve been through. If you judge, you’re an awful person. Well, I for one am not buying it.
-There are times I’m not available. Contrary to popular belief we were not designed to be glued
-to our phones every single day. Acknowledging that someone made poor life choices and
-realizing they need to get their life together isn’t necessarily a bad thing either.&lt;/p&gt;
+&lt;p&gt;You can be kind and genuine. You can love people but also want to hurt them (but don’t). There’s so much pressure in life to be the perfect person, to be kind, to be encouraging, to be a good friend, to be a good spouse, to be productive, to be this, to be that, that we lose ourselves in what we should become and forget who we are.&lt;/p&gt;
+
+&lt;p&gt;Contrary to what we tell ourselves, there’s not a perfect person out there. You can be nice and be occasionally sarcastic. You can be a good friend most of the time but pull back a little when you’re struggling. It’s possible to not answer phone calls when you’ve had a long day and still be supportive to those closest to you.&lt;/p&gt;
+
+&lt;p&gt;We get lost in absolutes. You have to be 100% available 100% of the time. Otherwise, you’re a terrible person who hates their family. You can’t judge people because you don’t know what they’ve been through. If you judge, you’re an awful person. Well, I for one am not buying it. There are times I’m not available. Contrary to popular belief we were not designed to be glued to our phones every single day. Acknowledging that someone made poor life choices and realizing they need to get their life together isn’t necessarily a bad thing either.&lt;/p&gt;
 
 &lt;p&gt;I digress.&lt;/p&gt;
 
-&lt;p&gt;If you like what you’ve heard so far there’s definitely more to say but for now I will start by
-welcoming you to Lez Be Honest, a place where people are people and we do judge&lt;/p&gt;
+&lt;p&gt;If you like what you’ve heard so far there’s definitely more to say but for now I will start by welcoming you to Lez Be Honest, a place where people are people and we do judge&lt;/p&gt;
 </description>
         <pubDate>Thu, 16 Jan 2025 03:01:35 -0900</pubDate>
         <link>http://localhost:4000/Lez-Be-Honest</link>
