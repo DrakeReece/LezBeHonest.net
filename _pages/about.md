@@ -13,8 +13,8 @@ Lez Be Honest: A place where people are people and we do judge.
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="{{site.baseurl}}/images/900.jpg">
-    <img src="{{site.baseurl}}/images/901.jpg">
-    <img src="{{site.baseurl}}/images/902.jpg">
+    <img src="{{site.baseurl}}/images/Drake-Seattle-Bench.jpg">
+    <img src="{{site.baseurl}}/images/Drake-n-Tyler-CL-NP.jpg">
+    <img src="{{site.baseurl}}/images/Drake-Beach-SavannahGA.jpg">
   </div>
 </div>
