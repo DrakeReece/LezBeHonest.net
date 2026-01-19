@@ -7,10 +7,10 @@ image:  '/images/Drake-Cliff-CL-NP.jpg'
 tags:   [Emotional intelligence, Self-acceptance]
 ---
 
-The easy thing to do when you’re upset at someone is to immediately react. Giving someone the benefit of the doubt is truly a lost art. When a friend or a significant other offends you it’s super easy to automatically assume the worst. Why? I think it’s because we all secretly hate ourselves. What sense would it make for the person who loves you most to say something rude to you to intentionally hurt your feelings?
+The easy thing to do when you’re upset at someone is to immediately react. Giving someone the benefit of the doubt is truly a lost art. When a friend or a significant other offends you it’s super easy to automatically assume the worst. Why? I think it's because we all secretly don't like ourselves. What sense would it make for the person who loves you most to say something rude to you to intentionally hurt your feelings?
 
 If your answer is yeah, that checks out you should probably work on things with them.
-Otherwise, what else might be going on? Is it possible you misunderstood them? Is it possible they didn’t mean to make you feel the way you feel? Lez be honest (Shameless plug I know), it’s easy to assume the worst in people’s intentions when we are already feeling that way about ourselves in the first place. 
+Otherwise, what else might be going on? Is it possible you misunderstood them? Is it possible they didn’t mean to make you feel the way you feel? Lez be honest (shameless plug I know), it’s easy to assume the worst in people’s intentions when we are already feeling that way about ourselves in the first place. 
 
 Our hurt isn’t always about what the other person said, it’s truly about how we already feel about our biggest insecurities because we don’t want to be responsible for them. They have to come from someone else. Understanding what someone might be trying to say or how they might be trying to come across is the first step in emotional maturity. 
 
