@@ -16,7 +16,7 @@ Arguably, I should just unfollow them but I don’t. Why? Probably, because I ne
 
 > In a world full of bogus people, false realities on the internet, and the stressors of life, the people of the internet need real.
 
-The honest people of the internet need to feel validated for the times we thought you your favorite razors are probably not the ones that are currently on sale for $14.99. We don’t want the links to your outfit. We want to hear about the times you slept through your alarm clock or had a genuine mom fail. We don’t care about what’s currently trending on Tiktok or gets you more views.
+The honest people of the internet need to feel validated for the times we thought your favorite razors are probably not the ones that are currently on sale for $14.99. We don’t want the links to your outfit. We want to hear about the times you slept through your alarm clock or had a genuine mom fail. We don’t care about what’s currently trending on Tiktok or gets you more views.
 
 If Instagram Influencers are allowed to become popular by clicking their nails on things and taking their fifteenth vacation of the year there should be a space made for the normal people of the world. The people who were three minutes late to work this morning because they got the coffee they knew they didn’t have time to get. The people who love their spouse but also understand how someone ends up on Dateline. Real people with real thoughts and maybe a little bit of judgement.
 
