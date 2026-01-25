@@ -2,7 +2,7 @@
 layout: post
 title:  We argue, but we don’t kill
 description: 
-date:   2026-01-25 19:43:35 +0300
+date:   2026-01-25 12:43:35 +0300
 image:  '/images/trees-redwood-sp-humbolt-ca.png'
 tags:   [Vulnerability, Communication, Emotional Honesty, Respect]
 ---
