@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  You didn’t wake today to be a weak ass bitch.
+title:  You didn’t wake up today to be a weak ass bitch.
 description: 
 date:   2026-02-06 12:43:35 +0300
 image:  '/images/ExitGlacier.jpg'
