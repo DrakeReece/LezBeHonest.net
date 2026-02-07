@@ -4,7 +4,7 @@ title:  You didn’t wake today to be a weak ass bitch.
 description: 
 date:   2026-02-06 12:43:35 +0300
 image:  '/images/ExitGlacier.jpg'
-tags:   [Vulnerability, Communication, Emotional Honesty, Respect]
+tags:   [Self-acceptance, Mental Health, Emotional Honesty, Self-empowerment ]
 ---
 
 I saw this quote on a sign a few months ago and it’s stuck with me. Partially because it’s funny but it’s so true. Every day we wake up we should be going out living our lives to the fullest extent. That doesn’t necessarily mean spending a fortune on every vacation you can get your hands on but that does mean spending time with the people you love, making memories, laughing harder, and being intentional with the time you do have in life.
